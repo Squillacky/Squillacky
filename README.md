@@ -45,3 +45,11 @@ Below are highlights from my portfolio. Each project is documented as a business
 **BI & Visualization:** Power BI, Tableau, Excel (Advanced, Power Query)
 **Cloud:** Google Cloud Platform (GCP)
 **ERP Systems:** NetSuite (Architect/Implementer), SAP/Oracle (User)
+
+---
+
+### ✍️ My Content & Thought Leadership
+
+The ability to communicate complex data topics is as important as the technical skill itself. I produce articles and audio case studies to explore these ideas further.
+
+**[Explore My Data Narratives & Content Portfolio](https_://github.com/YourUsername/Data-Narratives)**

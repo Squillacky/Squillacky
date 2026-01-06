@@ -1,6 +1,49 @@
-### Scott Squillace | Financial Leader & Data Engineer in Training
+# Scott Squillace
+
+Financial systems leader with 15+ years of experience translating complex operational data into executive-level insight. Former CFO and U.S. Navy Nuclear Power veteran with a focus on behavioral analytics, system design, and decision support.
+
+This GitHub hosts **published analytical case studies** and supporting artifacts that demonstrate how data can be structured, analyzed, and communicated for real business impact.
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
+
+## Featured Work
+
+### Bellabeat User Engagement Audit
+**Behavioral analysis of smart-device usage patterns**
+
+An end-to-end analytical audit using Fitbit-style proxy data to evaluate engagement consistency, recovery behavior, and product intervention opportunities.
+
+- Executive-ready narrative and recommendations  
+- Robust, reproducible R analysis (Kaggle → GitHub)  
+- Emphasis on interpretability, limitations, and scalability  
+
+📘 Repository: *bellabeat-user-engagement-audit*  
+🔗 Live Notebook: Kaggle execution linked in repo README  
+
+---
+
+## Analytical Philosophy
+
+- Prioritize clarity over complexity  
+- Design analysis for decision-makers, not dashboards alone  
+- Treat analytics as an audit discipline, not exploration theater  
+- Build artifacts that scale across tools, teams, and contexts  
+
+---
+
+## Tools & Environment
+
+- **Languages:** R, SQL, Python  
+- **Analytics & Visualization:** ggplot2, Power BI, Tableau, Excel  
+- **Data Platforms:** BigQuery (GCP), PostgreSQL  
+- **Systems:** NetSuite (architecture & implementation), ERP integrations  
+
+---
+
+Additional repositories may include archived or exploratory work.  
+Pinned projects represent current, completed, and review-ready analysis.
 
 ---
 
